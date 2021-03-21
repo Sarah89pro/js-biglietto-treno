@@ -43,4 +43,3 @@ if (age < 18) {
 
 //final output
 document.getElementById("magic").innerHTML = ("Your ticket will cost you ") + cost.toFixed(2) + " €";
-document.getElementById("harry-potter").innerHTML;
